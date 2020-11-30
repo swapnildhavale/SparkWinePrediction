@@ -1,4 +1,6 @@
 # SparkWinePrediction
+FOR DETAIL INFORMATION REFER PA-2-README
+
 STEPS:
 
 1.	Create EMR Cluster.
